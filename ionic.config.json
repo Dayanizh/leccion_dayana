@@ -1,0 +1,7 @@
+{
+  "name": "leccion_pinela_vargas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
